@@ -25,7 +25,7 @@ types = ["random", "new_drug", "new_protein", "new_drug_protein"]
 
 b_size, n_hidden = 128, 128
 lr, wd = 1e-4, 1e-4
-num_epoches = 200
+num_epoches = 100
 drop_feat = 0
 agg = "pool"
 # GPU
