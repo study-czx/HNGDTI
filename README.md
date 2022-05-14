@@ -1,4 +1,4 @@
-HGDTI: A drug-target interaction prediction framework based on drug-protein-disease heterogeneous network and gene ontology annotations
+HNGDTI: A drug-target interaction prediction framework based on drug-protein-disease heterogeneous network and gene ontology annotations
 ====
 The environment of EEG-DTI
 ===
