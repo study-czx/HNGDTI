@@ -11,6 +11,10 @@ The environment of HNGDTI
     scikit-learn 0.22.1
 Usage
 ===
-   python HNGDTI.py
+    All data are csv files of binary relational data
+    Unzip the folders DTI-rand.rar, DTI-net.rar, neg3-9.rar, neg-b3-9.rar and GO.rar
+    python HNGDTI.py
+    For different settings in the paper, run xxx.py file with a different name (such as Only_add_GO.py).
+    
    
 
